@@ -1,0 +1,935 @@
+  
+    /*Divertidamente*/ 
+  
+  #persRiley{
+       list-style-image: url("../Imagens/Riley.png");
+	   }
+	   
+  #pers1{
+       list-style-image: url("../Imagens/Alegria.png");
+	   }
+	   
+   #pers2{
+       list-style-image: url("../Imagens/Tristeza.png");
+	   }
+	   
+    #pers3{
+       list-style-image: url("../Imagens/Medo.png");
+	   }
+	   
+	#pers4{
+       list-style-image: url("../Imagens/Raiva.png");
+	   }
+	   
+	#pers5{
+       list-style-image: url("../Imagens/Nojinho.png");
+	   }
+	   
+	   
+	/*Gigantes de Aco*/   
+	   
+	#persHugh{
+		list-style-image: url("../Imagens/Charlie.png");
+	}
+	
+	#persDakota{
+		list-style-image: url("../Imagens/Max.png");
+	}
+	
+	#persEvangeline{
+		list-style-image: url("../Imagens/Bailey.png");
+	}
+	
+	#persKingpin{
+		list-style-image: url("../Imagens/Kingpin.png");
+	}
+	
+	#persFinn{
+		list-style-image: url("../Imagens/Finn.png");
+	}
+	
+	#persOlga{
+		list-style-image: url("../Imagens/Farra.png");
+	}
+	   
+	   
+	/*Carga Explosiva 3*/
+
+    #persJason{
+		list-style-image: url("../Imagens/Frank.png");
+	}
+	
+	#persNatalya{
+		list-style-image: url("../Imagens/Valentina.png");
+	}
+	
+	#persRobert{
+		list-style-image: url("../Imagens/Johnson.png");
+	}
+	
+	#persAline{
+		list-style-image: url("../Imagens/Oficial.png");
+	}
+	
+	#persFrançois{
+		list-style-image: url("../Imagens/Inspetor.png");
+	}
+	
+	#persSemmy{
+		list-style-image: url("../Imagens/Gigante.png");
+	}
+
+
+	/*Malévola*/
+	
+	#persAngelina{
+		list-style-image: url("../Imagens/Malévola.png");
+	}
+	
+	#persElle{
+		list-style-image: url("../Imagens/Aurora.png");
+	}
+	
+	#persSteven{
+		list-style-image: url("../Imagens/Rei.png");
+	}
+	
+	#persLesley{
+		list-style-image: url("../Imagens/Flora.png");
+	}
+	
+	#persImelda{
+		list-style-image: url("../Imagens/Primavera.png");
+	}
+	
+	#persJuno{
+		list-style-image: url("../Imagens/Fauna.png");
+	}
+	
+	
+	/*Rio*/
+	
+	#persJesse{
+		list-style-image: url("../Imagens/Blu.png");
+	}
+	
+	#persAnne{
+		list-style-image: url("../Imagens/Jade.png");
+	}
+	
+	#persJamie{
+		list-style-image: url("../Imagens/Nico.png");
+	}
+	
+	#persJemaine{
+		list-style-image: url("../Imagens/Nigel.png");
+	}
+	
+	#perswilliam{
+		list-style-image: url("../Imagens/Pedro.png");
+	}
+	
+	#persLeslie{
+		list-style-image: url("../Imagens/Linda.png");
+	}
+	
+	
+	/*O Garoto Formiga*/
+	
+	#persOscar{
+		list-style-image: url("../Imagens/Pelle.png");
+	}
+	
+	#persAstrid{
+		list-style-image: url("../Imagens/Maria.png");
+	}
+	
+	#persAmalie{
+		list-style-image: url("../Imagens/Ida.png");
+	}
+	
+	#persWilhelm{
+		list-style-image: url("../Imagens/Wilhelm.png");
+	}
+	
+	#persCecilie{
+		list-style-image: url("../Imagens/Amanda.png");
+	}
+	
+	#persNicolas{
+		list-style-image: url("../Imagens/Dr.png");
+	}
+	
+	
+	/*Meu Malvado favorito 2 e 3*/
+	
+	#Gru{
+		list-style-image: url("../Imagens/Gru.png");
+	}
+	
+	#Dru{
+		list-style-image: url("../Imagens/Dru.png");
+	}
+	
+	#Lucy{
+		list-style-image: url("../Imagens/Lucy.png");
+	}
+	
+	#Agnes{
+		list-style-image: url("../Imagens/Agnes.png");
+	}
+	
+	#persBob{
+		list-style-image: url("../Imagens/Bob.png");
+	}
+	
+	#persStuart{
+		list-style-image: url("../Imagens/MinionStuart.png");
+	}
+	
+	#persKevin{
+		list-style-image: url("../Imagens/Kevin.png");
+	}
+	
+	/*Pixels*/	
+	
+	#persAdam{
+		list-style-image: url("../Imagens/Adam.png");
+	}
+	
+	#persMich{
+		list-style-image: url("../Imagens/Mich.png");
+	}
+	
+	#persPresidente{
+		list-style-image: url("../Imagens/Presidente.png");
+	}
+	
+	#persJosh{
+		list-style-image: url("../Imagens/Josh.png");
+	}
+	
+	#persPeter{
+		list-style-image: url("../Imagens/Peter.png");
+	}
+	
+	#persAshley{
+		list-style-image: url("../Imagens/Ashley.png");
+	}
+	
+	/*Gente Grande 2*/
+
+    #persChris{
+		list-style-image: url("../Imagens/Chris.png");
+	}
+
+    #persDavid{
+		list-style-image: url("../Imagens/David.png");
+	}
+
+    #persSalma{
+		list-style-image: url("../Imagens/Salma.png");
+	}
+
+    #persMaya{
+		list-style-image: url("../Imagens/Maya.png");
+	}
+	
+	
+	/*Perdido pra cachorro 3*/
+	
+	#persPapi{
+		list-style-image: url("../Imagens/Papi.png");
+	}
+	
+	#persChloe{
+		list-style-image: url("../Imagens/Chloe.png");
+	}
+	
+	#persRosa{
+		list-style-image: url("../Imagens/Rosa.png");
+	}
+	
+	#persMarcus{
+		list-style-image: url("../Imagens/Marcus.png");
+	}
+	
+	#persErin{
+		list-style-image: url("../Imagens/Erin.png");
+	}
+	
+	#pers{
+		list-style-image: url("../Imagens/.png");
+	}
+	
+	/*A espia que sabia de menos*/	
+	
+	#persSusan{
+		list-style-image: url("../Imagens/Susan.png");
+	}
+	
+	#persRose{
+		list-style-image: url("../Imagens/Rose.png");
+	}
+	
+	#persNancy{
+		list-style-image: url("../Imagens/Nancy.png");
+	}
+	
+	#persElaine{
+		list-style-image: url("../Imagens/Elaine.png");
+	}
+	
+	#persJude{
+		list-style-image: url("../Imagens/Jude.png");
+	}
+
+	/*Velozes e furiosos 5*/	
+	
+	#persVin{
+		list-style-image: url("../Imagens/Vin.png");
+	}
+	
+	#persPaul{
+		list-style-image: url("../Imagens/Paul.png");
+	}
+	
+	#persLuke{
+		list-style-image: url("../Imagens/Luke.png");
+	}
+	
+	#persMia{
+		list-style-image: url("../Imagens/Mia.png");
+	}
+	
+	#persGal{
+		list-style-image: url("../Imagens/Gal.png");
+	}
+	
+	#persElena{
+		list-style-image: url("../Imagens/Elena.png");
+	}
+
+	/*Esqueceram de mim*/	
+	
+	#persKevin1{
+		list-style-image: url("../Imagens/Kevin1.png");
+	}
+	
+	#persJoe{
+		list-style-image: url("../Imagens/Joe.png");
+	}
+	
+	#persMarv{
+		list-style-image: url("../Imagens/Marv.png");
+	}
+	
+	#persKate{
+		list-style-image: url("../Imagens/Kate.png");
+	}
+	
+	#persJohn{
+		list-style-image: url("../Imagens/John.png");
+	}
+	
+	#persBuzz{
+		list-style-image: url("../Imagens/Buzz.png");
+	}
+
+	/*Aprendiz de espia*/	
+	
+	#persJJ{
+		list-style-image: url("../Imagens/JJ.png");
+	}
+	
+	#persSophie{
+		list-style-image: url("../Imagens/Sophie.png");
+	}
+	
+	#persParisa{
+		list-style-image: url("../Imagens/Parisa.png");
+	}
+	
+	#persBobbi{
+		list-style-image: url("../Imagens/Bobbi.png");
+	}
+	
+	#persDavid1{
+		list-style-image: url("../Imagens/David1.png");
+	}
+	
+	#persCarlos{
+		list-style-image: url("../Imagens/Carlos.png");
+	}
+
+	/*Missao quase impossivel*/	
+	
+	#persJackie{
+		list-style-image: url("../Imagens/Jackie.png");
+	}
+	
+	#persNora{
+		list-style-image: url("../Imagens/Nora.png");
+	}
+	
+	#persFarren{
+		list-style-image: url("../Imagens/Farren.png");
+	}
+	
+	#persIan{
+		list-style-image: url("../Imagens/Ian.png");
+	}
+	
+	
+	#persGillian{
+		list-style-image: url("../Imagens/Gillian.png");
+	}
+	
+	#persGeorge{
+		list-style-image: url("../Imagens/George.png");
+	}
+
+	/*Pequenos espioes*/
+
+    #persGina{
+		list-style-image: url("../Imagens/Gina.png");
+	}
+
+    #persEverly{
+		list-style-image: url("../Imagens/Everly.png");
+	}
+
+    #persConnor{
+		list-style-image: url("../Imagens/Connor.png");
+	}
+
+    #persZachary{
+		list-style-image: url("../Imagens/Zachary.png");
+	}
+	
+    #persBilly{
+		list-style-image: url("../Imagens/Billy.png");
+	}
+	
+    #persDJ{
+		list-style-image: url("../Imagens/DJ.png");
+	}	
+
+	/*Leao Branco*/	
+	
+    #persJean{
+		list-style-image: url("../Imagens/Jean.png");
+	}	
+	
+	#persDeb{
+		list-style-image: url("../Imagens/Deb.png");
+	}	
+	
+	#persNic{
+		list-style-image: url("../Imagens/Nic.png");
+	}	
+	
+	#persAbdel{
+		list-style-image: url("../Imagens/Abdel.png");
+	}	
+	
+	#persHarri{
+		list-style-image: url("../Imagens/Harri.png");
+	}	
+	
+	#persBrian{
+		list-style-image: url("../Imagens/Brian.png");
+	}	
+
+	/*A Royal Christmas*/
+
+    #persLacey{
+		list-style-image: url("../Imagens/Lacey.png");
+	}	
+
+    #persStephen{
+		list-style-image: url("../Imagens/Stephen.png");
+	}	
+
+    #persJane{
+		list-style-image: url("../Imagens/Jane.png");
+	}
+	
+    #persKath{
+		list-style-image: url("../Imagens/Kath.png");
+	}
+	
+    #persSimon{
+		list-style-image: url("../Imagens/Simon.png");
+	}	
+
+   
+    #persDiana{
+		list-style-image: url("../Imagens/Diana.png");
+	}		
+	
+	/*Encantada*/	
+	
+	#persAmy{
+		list-style-image: url("../Imagens/Amy.png");
+	}	
+	
+	#persPatrick{
+		list-style-image: url("../Imagens/Patrick.png");
+	}
+	
+	#persJames{
+		list-style-image: url("../Imagens/James.png");
+	}	
+	
+	#persRachel{
+		list-style-image: url("../Imagens/Rachel.png");
+	}	
+	
+	#persNarissa{
+		list-style-image: url("../Imagens/Narissa.png");
+	}	
+	
+	#persIdina{
+		list-style-image: url("../Imagens/Idina.png");
+	}	
+
+	
+	/*A cinco passos de voce*/	
+	
+	#persHaley{
+		list-style-image: url("../Imagens/Haley.png");
+	}	
+	
+	#persCole{
+		list-style-image: url("../Imagens/Cole.png");
+	}	
+	
+	#persMoises{
+		list-style-image: url("../Imagens/Moises.png");
+	}	
+	
+	#persEm{
+		list-style-image: url("../Imagens/Em.png");
+	}	
+	
+	#persParmin{
+		list-style-image: url("../Imagens/Parmin.png");
+	}	
+	
+	#persKim{
+		list-style-image: url("../Imagens/Kim.png");
+	}	
+	
+	/*Nossa Historia de Amor*/
+
+   
+	#persMaggie{
+		list-style-image: url("../Imagens/Maggie.png");
+	}	
+	
+	#persSamuel{
+		list-style-image: url("../Imagens/Samuel.png");
+	}	
+	
+	#persMar{
+		list-style-image: url("../Imagens/Mar.png");
+	}	
+	
+	#persZibby{
+		list-style-image: url("../Imagens/Zibby.png");
+	}	
+	
+	#persFrances{
+		list-style-image: url("../Imagens/Frances.png");
+	}	
+
+	
+	
+	/*Parada Inesperada*/
+
+    #persCand{
+		list-style-image: url("../Imagens/Cand.png");
+	}
+	
+	#persTrevor{
+		list-style-image: url("../Imagens/Trevor.png");
+	}	
+	
+	#persLou{
+		list-style-image: url("../Imagens/Lou.png");
+	}	
+	
+	#persVal{
+		list-style-image: url("../Imagens/Val.png");
+	}	
+	
+	#persIsabel{
+		list-style-image: url("../Imagens/Isabel.png");
+	}	
+	
+	#persMark{
+		list-style-image: url("../Imagens/Mark.png");
+	}	
+
+	
+	
+	/*Uma Viagem de Natal*/
+
+    #persTravis{
+		list-style-image: url("../Imagens/Travis.png");
+	}
+	
+	#persBrid{
+		list-style-image: url("../Imagens/Brid.png");
+	}	
+	
+	#persRaven{
+		list-style-image: url("../Imagens/Raven.png");
+	}	
+	
+	#persTeryl{
+		list-style-image: url("../Imagens/Teryl.png");
+	}	
+	
+	#persSarah{
+		list-style-image: url("../Imagens/Sarah.png");
+	}	
+	
+	#persAlvin{
+		list-style-image: url("../Imagens/Alvin.png");
+	}	
+
+	
+	/*Barbie: Escola de princesas*/
+
+    #persBlair{
+		list-style-image: url("../Imagens/Blair.png");
+	}
+	
+	#persIsla{
+		list-style-image: url("../Imagens/Isla.png");
+	}	
+	
+	#persHadley{
+		list-style-image: url("../Imagens/Hadley.png");
+	}	
+	
+	#persDelan{
+		list-style-image: url("../Imagens/Delan.png");
+	}	
+	
+	#persPortia{
+		list-style-image: url("../Imagens/Portia.png");
+	}	
+	
+	#persDame{
+		list-style-image: url("../Imagens/Dame.png");
+	}	
+
+	
+	/*Bolt*/
+
+    #persBolt{
+		list-style-image: url("../Imagens/Bolt.png");
+	}	
+
+    #persPenny{
+		list-style-image: url("../Imagens/Penny.png");
+	}
+	
+		
+	#persMittens{
+		list-style-image: url("../Imagens/Mittens.png");
+	}
+	
+	#persRhino{
+		list-style-image: url("../Imagens/Rhino.png");
+	}
+	
+	#persMPenny{
+		list-style-image: url("../Imagens/MPenny.png");
+	}	
+	
+	#persCalico{
+		list-style-image: url("../Imagens/Calico.png");
+	}	
+	
+
+	/*Ratatouille*/	
+	
+	#persRemy{
+		list-style-image: url("../Imagens/Remy.png");
+	}	
+	
+	#persLinguini{
+		list-style-image: url("../Imagens/Linguini.png");
+	}	
+	
+	#persColette{
+		list-style-image: url("../Imagens/Colette.png");
+	}	
+	
+	#persAnton{
+		list-style-image: url("../Imagens/Anton.png");
+	}	
+	
+	#persHorst{
+		list-style-image: url("../Imagens/Horst.png");
+	}	
+	
+	#persSkinner{
+		list-style-image: url("../Imagens/Skinner.png");
+	}	
+	
+	/*A Era do Gelo*/
+
+    #persSid{
+		list-style-image: url("../Imagens/Sid.png");
+	}
+	
+	#persManny{
+		list-style-image: url("../Imagens/Manny.png");
+	}	
+	
+	#persScrat{
+		list-style-image: url("../Imagens/Scrat.png");
+	}	
+	
+	#persDiego{
+		list-style-image: url("../Imagens/Diego.png");
+	}	
+	
+	#persZeke{
+		list-style-image: url("../Imagens/Zeke.png");
+	}	
+	
+	#persRachel{
+		list-style-image: url("../Imagens/Rachel.png");
+	}	
+	
+
+	
+	
+	/*Branca de Neve*/	
+	
+	#persBranca{
+		list-style-image: url("../Imagens/Branca.png");
+	}	
+	
+	#persRainha{
+		list-style-image: url("../Imagens/Rainha.png");
+	}	
+	
+	#persSoneca{
+		list-style-image: url("../Imagens/Soneca.png");
+	}	
+	
+	#persFeliz{
+		list-style-image: url("../Imagens/Feliz.png");
+	}	
+	
+	#persDunga{
+		list-style-image: url("../Imagens/Dunga.png");
+	}	
+	
+	#persHumorado{
+		list-style-image: url("../Imagens/Humorado.png");
+	}	
+	
+	/*Pica Pau*/	
+	
+	#persPicaPau{
+		list-style-image: url("../Imagens/PicaPau.png");
+	}	
+	
+	#persZecaUrubu{
+		list-style-image: url("../Imagens/ZecaUrubu.png");
+	}	
+	
+	#persMeany{
+		list-style-image: url("../Imagens/Meany.png");
+	}	
+	
+	#persLeoncio{
+		list-style-image: url("../Imagens/Leoncio.png");
+	}	
+	
+	#persSplinter{
+		list-style-image: url("../Imagens/Splinter.png");
+	}	
+	
+	#persWinnie{
+		list-style-image: url("../Imagens/Winnie.png");
+	}	
+	
+	/*A Luz do Demonio*/	
+	
+	#persAnn{
+		list-style-image: url("../Imagens/Ann.png");
+	}	
+	
+	#persDante{
+		list-style-image: url("../Imagens/Dante.png");
+	}	
+	
+	#persQuinn{
+		list-style-image: url("../Imagens/Quinn.png");
+	}	
+	
+	#persPeters{
+		list-style-image: url("../Imagens/Peters.png");
+	}	
+	
+	#persNatalie{
+		list-style-image: url("../Imagens/Natalie.png");
+	}	
+	
+	#pers{
+		list-style-image: url("../Imagens/.png");
+	}	
+	
+	/*O filho de Chucky*/
+
+    #persGlen{
+		list-style-image: url("../Imagens/Glen.png");
+	}	
+
+    #persChucky{
+		list-style-image: url("../Imagens/Chucky.png");
+	}	
+
+	#persTiffany{
+		list-style-image: url("../Imagens/Tiffany.png");
+	}	
+
+	#persLui{
+		list-style-image: url("../Imagens/Lui.png");
+	}	
+
+	#persPete{
+		list-style-image: url("../Imagens/Pete.png");
+	}	
+
+	#persJoan{
+		list-style-image: url("../Imagens/Joan.png");
+	}		
+	
+	/*Oracao Diabólica*/
+
+	#persMon{
+		list-style-image: url("../Imagens/Mon.png");
+	}	
+	
+	#persAnthony{
+		list-style-image: url("../Imagens/Anthony.png");
+	}	
+	
+	#persGabby{
+		list-style-image: url("../Imagens/Gabby.png");
+	}	
+	
+	#persFat{
+		list-style-image: url("../Imagens/Fat.png");
+	}	
+	
+	#persMichael{
+		list-style-image: url("../Imagens/Michael.png");
+	}	
+	
+	
+	/*Ninho do mal*/
+
+	#persTinja{
+		list-style-image: url("../Imagens/Tinja.png");
+	}	
+	
+	#persMatka{
+		list-style-image: url("../Imagens/Matka.png");
+	}	
+	
+	#persTero{
+		list-style-image: url("../Imagens/Tero.png");
+	}	
+	
+	#persFathe{
+		list-style-image: url("../Imagens/Fathe.png");
+	}	
+	
+	#persGym{
+		list-style-image: url("../Imagens/Gym.png");
+	}	
+	
+	#persRee{
+		list-style-image: url("../Imagens/Ree.png");
+	}	
+	
+	/*O Cemitério Maldito*/	
+	
+	#persNat{
+		list-style-image: url("../Imagens/Nat.png");
+	}
+	
+	#persJackson{
+		list-style-image: url("../Imagens/Jackson.png");
+	}	
+	
+	#persHenry{
+		list-style-image: url("../Imagens/Henry.png");
+	}	
+	
+	#persJack{
+		list-style-image: url("../Imagens/Jack.png");
+	}	
+	
+	#persDavi{
+		list-style-image: url("../Imagens/Davi.png");
+	}	
+	
+	#persPam{
+		list-style-image: url("../Imagens/Pam.png");
+	}	
+		
+	/*Nao adianta Rezar*/
+
+    #persAnna{
+		list-style-image: url("../Imagens/Anna.png");
+	}	
+
+	#persRae{
+		list-style-image: url("../Imagens/Rae.png");
+	}	
+	
+	#persJona{
+		list-style-image: url("../Imagens/Jona.png");
+	}	
+	
+	#persBrad{
+		list-style-image: url("../Imagens/Brad.png");
+	}	
+	
+	#persKat{
+		list-style-image: url("../Imagens/Kat.png");
+	}	
+	
+	#persAaron{
+		list-style-image: url("../Imagens/Aaron.png");
+	}	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+ 
+ 
+ 
+      #lista{
+		   list-style-image: url("../Imagens/Preto.png");
+	  }
+	  
+	  

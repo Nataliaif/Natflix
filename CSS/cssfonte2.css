@@ -1,0 +1,7 @@
+@font-face{
+	   font-family:"Gagalin";
+	   SRC: URL("Gagalin-Regular.otf");}
+   
+   header,footer,h2{
+	   
+	   font-family:"Gagalin";}
